@@ -4,6 +4,12 @@ Bem vindo ao meu perfil GitHub 👋
 - 🔭 Atualmente estou trabalhando em projetos pessoais. <br>
 - 🌱 Atualmente estou aprendendo lógica de programação e JavaScript. <br>
 - ⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Ferramentas e Tecnologias
 
@@ -15,6 +21,18 @@ Bem vindo ao meu perfil GitHub 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Contatos:
 
