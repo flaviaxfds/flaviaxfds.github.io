@@ -1,30 +1,22 @@
-# Olá, me chamo Flavia! 
-Bem vindo ao meu perfil GitHub 👋
-# ![Bills Ugh GIF](https://media.tenor.com/images/6c9e17f1d6f7a9b9f7840ddc3e8e4e57/tenor.gif)
+# ![Bills Ugh GIF](https://media.tenor.com/images/e27d0fba5cd8aade9e6ee05d8426dc29/tenor.gif)
 
--🔭 Atualmente estou trabalhando em projetos pessoais. <br>
--🌱 Atualmente estou aprendendo lógica de programação e JavaScript. <br>
--⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
+# Olá, me chamo Flavia! 
+## Bem vindo ao meu perfil GitHub 👋
+
+- 🔭 Atualmente estou trabalhando em projetos pessoais. <br>
+- 🌱 Atualmente estou aprendendo lógica de programação e JavaScript. <br>
+- ⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
 
 ## Ferramentas e Tecnologias
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 ## Contatos:
 
