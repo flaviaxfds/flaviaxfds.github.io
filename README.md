@@ -1,5 +1,6 @@
 # Olá, me chamo Flavia! 
 Bem vindo ao meu perfil GitHub 👋
+# ![Bills Ugh GIF](https://media.tenor.com/images/6c9e17f1d6f7a9b9f7840ddc3e8e4e57/tenor.gif)
 
 -🔭 Atualmente estou trabalhando em projetos pessoais. <br>
 -🌱 Atualmente estou aprendendo lógica de programação e JavaScript. <br>
