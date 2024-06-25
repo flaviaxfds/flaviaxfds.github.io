@@ -2,7 +2,7 @@
 Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais. <br>
-- 🌱 Atualmente estou aprendendo lógica de programação e JavaScript. <br>
+- 🌱 Estou aprendendo lógica de programação e JavaScript. <br>
 - ⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
 <br>
 <br>
