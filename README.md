@@ -6,8 +6,7 @@ Bem vindo ao meu perfil GitHub 👋
 - ⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
 <br>
 <br>
-<br>
-<br>
+
 
 
 ## Ferramentas e Tecnologias
@@ -26,9 +25,7 @@ Bem vindo ao meu perfil GitHub 👋
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ## Contatos:
 
