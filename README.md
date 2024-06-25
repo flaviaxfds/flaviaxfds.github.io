@@ -1,6 +1,8 @@
 # Olá, me chamo Flavia! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+<img src="https://tenor.com/pt-BR/view/bills-ugh-gif-9811803164280522639"
+
 -🔭 Atualmente estou trabalhando em projetos pessoais. <br>
 -🌱 Atualmente estou aprendendo logica de programação e JavaScript.  <br>
 -⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
@@ -9,7 +11,7 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>     
@@ -17,11 +19,6 @@
           
           
           
-          
-
-          
-          
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Contatos:
 
