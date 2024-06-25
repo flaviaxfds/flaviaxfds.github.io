@@ -1,9 +1,9 @@
 # Olá, me chamo Flavia! 
 Bem vindo ao meu perfil GitHub 👋
 
--🔭 Atualmente estou trabalhando em projetos pessoais. 
--🌱 Atualmente estou aprendendo lógica de programação e JavaScript. 
--⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. 
+-🔭 Atualmente estou trabalhando em projetos pessoais. <br>
+-🌱 Atualmente estou aprendendo lógica de programação e JavaScript. <br>
+-⚡ Curiosidade: todo dia eu penso em desistir, mas todo dia eu continuo estudando. rsrs. <br>
 
 ## Ferramentas e Tecnologias
 
