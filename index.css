@@ -340,6 +340,7 @@ body {
   	width: 29px;
   	position: relative;
   	height: 31px;
+	border-radius: 20px;
 }
 .vector-wrapper {
   	position: absolute;
@@ -372,7 +373,7 @@ body {
 .star-parent {
   	position: absolute;
   	top: 19px;
-  	left: 79px;
+  	left: 110px;
   	display: flex;
   	flex-direction: row;
   	align-items: center;
