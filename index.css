@@ -1,0 +1,726 @@
+body {
+	margin: 0;
+	line-height: normal;
+}
+.faa-seu-oramento {
+  	position: absolute;
+  	top: 95px;
+  	left: 136px;
+  	font-size: 40px;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	width: 347px;
+  	height: 114px;
+}
+.rapidez-e-compromisso {
+  	position: absolute;
+  	top: 211px;
+  	left: 136px;
+  	font-size: 15px;
+  	display: flex;
+  	align-items: center;
+  	width: 365px;
+  	height: 83px;
+}
+.fazer-oramento {
+  	position: relative;
+  	font-weight: 800;
+}
+.boto {
+  	position: absolute;
+  	top: 310px;
+  	left: 136px;
+  	border-radius: 10px;
+  	background-color: #8c5dc8;
+  	width: 141px;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	text-align: center;
+  	color: #444;
+}
+.blank-line {
+  	margin: 0;
+}
+.boto1 {
+  	position: absolute;
+  	top: 310px;
+  	left: 318px;
+  	border-radius: 10px;
+  	background-color: rgba(171, 138, 212, 0.99);
+  	width: 141px;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	text-align: center;
+  	color: #444;
+}
+.menu-principal-child {
+  	position: absolute;
+  	top: 69px;
+  	left: 855px;
+  	border-radius: 20px;
+  	width: 468px;
+  	height: 442px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.menu-principal {
+  	position: absolute;
+  	top: 91px;
+  	left: 0px;
+  	background-color: #444;
+  	width: 3000px;
+  	height: 588px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 13px;
+  	color: #fff;
+}
+.trabalhamos-com {
+  	position: absolute;
+  	top: 718px;
+  	left: 392px;
+  	font-size: 40px;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 650px;
+  	height: 163px;
+}
+.at-lacus-vitae-container1 {
+  	width: 100%;
+}
+.at-lacus-vitae-container {
+  	position: absolute;
+  	top: 800px;
+  	left: 456px;
+  	display: flex;
+  	align-items: center;
+  	width: 528px;
+  	height: 109px;
+}
+.imagem-icon {
+  	position: absolute;
+  	top: 1433px;
+  	left: 737px;
+  	border-radius: 20px;
+  	width: 524px;
+  	height: 524px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.imagem-icon1 {
+  	position: absolute;
+  	top: 909px;
+  	left: 135px;
+  	border-radius: 20px;
+  	width: 524px;
+  	height: 524px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.criao-de-sites {
+  	align-self: stretch;
+  	position: relative;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 71px;
+  	flex-shrink: 0;
+}
+.lorem-ipsum-dolor {
+  	width: 354px;
+  	position: relative;
+  	font-size: 15px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 82px;
+  	flex-shrink: 0;
+}
+.criao-de-sites-parent {
+  	position: absolute;
+  	top: 1101px;
+  	left: 799px;
+  	width: 394px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	font-size: 25px;
+}
+.criao-de-aplicativos-parent {
+  	position: absolute;
+  	top: 1671px;
+  	left: 195px;
+  	width: 394px;
+  	height: 144px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	font-size: 25px;
+}
+.alm-de {
+  	position: absolute;
+  	top: 0px;
+  	left: 515px;
+  	font-size: 40px;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 650px;
+  	height: 163px;
+}
+.automao-do-whatsapp {
+  	position: absolute;
+  	top: 71px;
+  	left: 577px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 528px;
+  	height: 109px;
+}
+.platea-lectus-sit {
+  	position: absolute;
+  	top: 114px;
+  	left: 69px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 156px;
+  	height: 22px;
+}
+.lorem-ipsum-dolor2 {
+  	position: absolute;
+  	top: 154px;
+  	left: 28px;
+  	font-size: 10px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 238px;
+}
+.frame-child {
+  	position: absolute;
+  	top: 35px;
+  	left: 121px;
+  	border-radius: 50%;
+  	background-color: #000;
+  	width: 52px;
+  	height: 52px;
+}
+.platea-lectus-sit-parent {
+  	position: absolute;
+  	top: 302px;
+  	left: 177px;
+  	background-color: #fff;
+  	width: 292px;
+  	height: 213px;
+  	overflow: hidden;
+}
+.platea-lectus-sit-group {
+  	position: absolute;
+  	top: 302px;
+  	left: 660px;
+  	background-color: #fff;
+  	width: 292px;
+  	height: 213px;
+  	overflow: hidden;
+}
+.platea-lectus-sit-container {
+  	position: absolute;
+  	top: 302px;
+  	left: 1143px;
+  	background-color: #fff;
+  	width: 292px;
+  	height: 213px;
+  	overflow: hidden;
+}
+.frame-div {
+  	position: absolute;
+  	top: 614px;
+  	left: 177px;
+  	background-color: #fff;
+  	width: 292px;
+  	height: 213px;
+  	overflow: hidden;
+}
+.platea-lectus-sit-parent1 {
+  	position: absolute;
+  	top: 614px;
+  	left: 660px;
+  	background-color: #fff;
+  	width: 292px;
+  	height: 213px;
+  	overflow: hidden;
+}
+.platea-lectus-sit-parent2 {
+  	position: absolute;
+  	top: 614px;
+  	left: 1143px;
+  	background-color: #fff;
+  	width: 292px;
+  	height: 213px;
+  	overflow: hidden;
+}
+.alm-de-parent {
+  	position: absolute;
+  	top: 2057px;
+  	left: 0px;
+  	background-color: #444;
+  	width: 3000px;
+  	height: 944px;
+  	overflow: hidden;
+}
+.avaliao-de-clientes {
+  	position: absolute;
+  	top: 2982px;
+  	left: 518px;
+  	font-size: 40px;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 650px;
+  	height: 163px;
+}
+.a-satisfao-dos {
+  	position: absolute;
+  	top: 3044px;
+  	left: 582px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 528px;
+  	height: 109px;
+}
+.vector-icon {
+  	width: 10px;
+  	position: relative;
+  	height: 19px;
+}
+.boto-esquerdo-final {
+  	width: 43px;
+  	border-radius: 21.5px;
+  	background-color: #d9d9d9;
+  	height: 43px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 12px 16px;
+  	box-sizing: border-box;
+}
+.lorem-ipsum-dolor8 {
+  	position: absolute;
+  	top: 71px;
+  	left: 26px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 279px;
+}
+.vector-icon1 {
+  	width: 29px;
+  	position: relative;
+  	height: 31px;
+}
+.vector-wrapper {
+  	position: absolute;
+  	top: 170px;
+  	left: 141px;
+  	border-radius: 30px;
+  	background-color: #1e1e1e;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 10px;
+}
+.leticia-medeiros {
+  	position: absolute;
+  	top: 227px;
+  	left: 111px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 19px;
+}
+.star-icon {
+  	width: 29px;
+  	position: relative;
+  	height: 29px;
+}
+.star-parent {
+  	position: absolute;
+  	top: 19px;
+  	left: 79px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 7px;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent {
+  	width: 331px;
+  	position: relative;
+  	background: linear-gradient(#444, #444), linear-gradient(#444, #444), linear-gradient(#444, #444), #444;
+  	height: 264px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.maria-silva {
+  	position: absolute;
+  	top: 230px;
+  	left: 123px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 84px;
+  	height: 19px;
+}
+.avaliaes {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 60px;
+}
+.boto-esquerdo-final-parent {
+  	position: absolute;
+  	top: 3211px;
+  	left: 413px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 26px;
+  	font-size: 13px;
+  	color: #fff;
+}
+.flavia-fernandes-todos {
+  	position: absolute;
+  	top: 175px;
+  	left: 680px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 470px;
+  	height: 19px;
+}
+.rodap-2-child {
+  	position: absolute;
+  	top: 59.5px;
+  	left: 83.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1700px;
+  	height: 1px;
+}
+.github-icon {
+  	position: absolute;
+  	height: 10.32%;
+  	width: 1.88%;
+  	top: 44.44%;
+  	right: 5.14%;
+  	bottom: 45.24%;
+  	left: 92.99%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.instagram-icon {
+  	position: absolute;
+  	height: 10.71%;
+  	width: 1.88%;
+  	top: 44.44%;
+  	right: 8.19%;
+  	bottom: 44.84%;
+  	left: 89.93%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.logorodap-child {
+  	width: 52px;
+  	position: relative;
+  	border-radius: 50%;
+  	height: 52px;
+  	object-fit: cover;
+}
+.flavia-codetech-txt-container {
+  	line-break: anywhere;
+  	width: 100%;
+}
+.flavia-codetech {
+  	width: 73px;
+  	position: relative;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	height: 53px;
+  	flex-shrink: 0;
+}
+.logorodap {
+  	position: absolute;
+  	top: 99px;
+  	left: 95px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 10px;
+  	text-align: left;
+  	font-size: 12px;
+}
+.rodap-2 {
+  	position: absolute;
+  	top: 0px;
+  	left: -92px;
+  	background-color: #d9d9d9;
+  	width: 3000px;
+  	height: 252px;
+  	overflow: hidden;
+}
+.inicio {
+  	width: 71px;
+  	position: relative;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 31px;
+  	flex-shrink: 0;
+}
+.sobre-ns {
+  	width: 119px;
+  	position: relative;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 31px;
+  	flex-shrink: 0;
+}
+.temos {
+  	width: 104px;
+  	position: relative;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 42px;
+  	flex-shrink: 0;
+}
+.rodap1 {
+  	position: absolute;
+  	top: 110px;
+  	left: 498px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 30px;
+  	font-size: 17px;
+}
+.rodap {
+  	position: absolute;
+  	top: 3697px;
+  	left: 91px;
+  	width: 1440px;
+  	height: 252px;
+}
+.tela-principal-child {
+  	position: absolute;
+  	top: 679px;
+  	left: 135px;
+  	width: 0px;
+  	height: 1378px;
+  	object-fit: contain;
+}
+.tela-principal-item {
+  	position: absolute;
+  	top: 679px;
+  	left: 1474px;
+  	width: 0px;
+  	height: 1378px;
+  	object-fit: contain;
+}
+.tela-principal-inner {
+  	position: absolute;
+  	top: 718px;
+  	left: 0px;
+  	max-height: 100%;
+  	width: 1613px;
+}
+.line-icon {
+  	position: absolute;
+  	top: 2015px;
+  	left: 0px;
+  	max-height: 100%;
+  	width: 1613px;
+}
+.ellipse-parent {
+  	position: absolute;
+  	top: 19px;
+  	left: 33px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 10px;
+}
+.frame-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 3000px;
+  	height: 91px;
+  	overflow: hidden;
+  	text-align: left;
+}
+.boto-nav {
+  	position: absolute;
+  	top: 33px;
+  	left: 1600px;
+  	border-radius: 10px;
+  	background-color: #8c5dc8;
+  	width: 141px;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	font-size: 14px;
+  	color: #fff;
+}
+.sobre-ns1 {
+  	width: 99px;
+  	position: relative;
+  	font-weight: 800;
+  	color: #000;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 31px;
+  	flex-shrink: 0;
+}
+.menu-nav {
+  	position: absolute;
+  	top: 30px;
+  	left: 720px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 70px;
+  	font-size: 17px;
+  	color: #8c5dc8;
+}
+.instance-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1613px;
+  	height: 91px;
+  	font-size: 12px;
+}
+.tela-principal {
+  	width: 100%;
+  	position: relative;
+  	background-color: #048d9b;
+  	height: 3949px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 15px;
+  	color: #000;
+  	font-family: Inter;
+}
+@media only screen and (max-width: 914px) {
+	.frame-wrapper {
+		width: 810px;
+		height: 110px;
+	}
+	.menu-principal {
+		width: 767px;
+		height: 400px;
+	}
+	.tela-principal {
+		width: 767px;
+		display: flex;
+		flex-direction: column;
+		
+	  }
+	
+	}
+	.faa-seu-oramento {
+		font-size: 15px;
+		text-align: center;
+		top: 65px;
+		left: 98px;
+	}
+	
+	.rapidez-e-compromisso {
+		font-size: 13px;
+		top: 127px;
+		left: 100px;
+		width: 225px;
+	}
+	.boto {
+		top: 270px;
+		left: 100px;
+		width: 90px
+		
+	}
+	.boto1 {
+		top: 270px;
+		left: 220px;
+		width: 90px
+	} 
+	.fazer-oramento{ 
+		font-size: 10px;
+	}
+	.blank-line {
+		font-size: 10px;
+		
+	}
+	.alm-de-parent {
+		width: 767px;
+		height: 990px;
+	}
+	.rodap-2 {
+		width: 767px;
+		height: 767px;
+	}
+	.container {
+		display: flex;
+        flex-direction: column;
+		justify-content: center;
+	}
+	
+
+
+
