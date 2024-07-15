@@ -498,7 +498,7 @@ body {
   	top: 0px;
   	left: -92px;
   	background-color: #d9d9d9;
-  	width: 3000px;
+  	width: 2000px;
   	height: 252px;
   	overflow: hidden;
 }
@@ -591,7 +591,7 @@ body {
   	gap: 10px;
 }
 .frame-wrapper {
-  	position: absolute;
+	position:fixed;
   	top: 0px;
   	left: 0px;
   	background-color: #d9d9d9;
@@ -601,7 +601,7 @@ body {
   	text-align: left;
 }
 .boto-nav {
-  	position: absolute;
+  	position: fixed;
   	top: 33px;
   	left: 1600px;
   	border-radius: 10px;
@@ -629,7 +629,7 @@ body {
   	flex-shrink: 0;
 }
 .menu-nav {
-  	position: absolute;
+	position:fixed;
   	top: 30px;
   	left: 720px;
   	display: flex;
@@ -659,45 +659,41 @@ body {
   	color: #000;
   	font-family: Inter;
 }
-@media only screen and (max-width: 914px) {
+@media only screen and (max-width: 767px) {
 	.frame-wrapper {
-		width: 810px;
-		height: 110px;
+		height: 100px;
 	}
 	.menu-principal {
-		width: 767px;
 		height: 400px;
 	}
 	.tela-principal {
-		width: 767px;
 		display: flex;
 		flex-direction: column;
 		
 	  }
 	
-	}
 	.faa-seu-oramento {
 		font-size: 15px;
 		text-align: center;
 		top: 65px;
-		left: 98px;
+		left: 58px;
 	}
 	
 	.rapidez-e-compromisso {
 		font-size: 13px;
 		top: 127px;
-		left: 100px;
+		left: 58px;
 		width: 225px;
 	}
 	.boto {
 		top: 270px;
-		left: 100px;
+		left: 58px;
 		width: 90px
 		
 	}
 	.boto1 {
 		top: 270px;
-		left: 220px;
+		left: 176px;
 		width: 90px
 	} 
 	.fazer-oramento{ 
@@ -708,19 +704,79 @@ body {
 		
 	}
 	.alm-de-parent {
-		width: 767px;
 		height: 990px;
 	}
-	.rodap-2 {
-		width: 767px;
-		height: 767px;
+	.trabalhamos-com{
+		width: 200px;
+  	    height: 300px;
+		left: 58px;
+		font-size: 15px;
+		top: 400px;
 	}
-	.container {
-		display: flex;
-        flex-direction: column;
-		justify-content: center;
+	.imagem-icon1{
+		width: 300px;
+  	    height: 300px;
+		left: 55px;
+		top: 600px;
 	}
-	
+	.imagem-icon{
+		top: 1000px;
+		width: 300px;
+		left: 55px;
+		height: 300px
+		
+	}
+	.criao-de-sites,
+	.lorem-ipsum-dolor { 
+		display: none;
 
+	}
+	.rodap-2 {
+		height: 300px;
+	}
+	.logorodap {
+		left: 15px;
+		width: 100px;
+  	    height: 20px;
+	}
+	.boto-esquerdo-final-parent,
+	.lorem-ipsum-dolor-sit-amet-co-parent,
+	.boto-esquerdo-final{
+		right: 440px;
+	}
+	.platea-lectus-sit-parent,
+	.frame-div{
+		left: 58px;
+
+	}
+	.rodap-2-child {
+		width: 260px;
+	}
+	.flavia-fernandes-todos {
+
+		font-size: 8px;
+		text-align: start;
+		left: 1px;
+		width: 385px;
+
+	}
+	.rodap1 {
+		font-size: 8px;
+		text-align: start;
+		left: 1px;
+		top: 130px;
+		
+	}
+	.inicio, 
+	.sobre-ns,
+	.contato,
+	.temos,
+	.privacidade {
+		width: 14px;
+		font-size: 7px;
+
+	}
+
+}
 
 
